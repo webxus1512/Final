@@ -14,6 +14,7 @@ body {
   margin: 0;
   font-size: 14px;
 }
+
 p1 {
   font-family: "Fast Hand", serif;
   font-weight: 500;
@@ -21,8 +22,22 @@ p1 {
   color: #f6fbfc;
   font-size: 35px
 }
+p5 {
+  font-family: "Fast Hand", serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #06cef7;
+  font-size: 50px
+}
 
 p2 {
+  font-family: "Fast Hand", serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #06cef7;
+  font-size: 35px
+}
+span12 {
   font-family: "Fast Hand", serif;
   font-weight: 500;
   font-style: normal;
